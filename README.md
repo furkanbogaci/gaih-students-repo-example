@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 08.01.1994
+**Course Date:** 08.01.1994  
 **Name:** Furkan  
 **Surname:** Bogaci  
 **Email:** furkanbogaci@outlook.com  
