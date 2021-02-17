@@ -1,5 +1,4 @@
 import numpy as np
-from numpy import random
 matrix = [[],[],[]]
 
 for i in range(0,3):
